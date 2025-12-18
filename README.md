@@ -1,28 +1,4 @@
 
-👉 **el navegador corta la copia**  
-👉 **solo copia hasta el primer bloque de código**  
-👉 por eso **solo se te copia esa parte**
-
-NO es GitHub,  
-NO eres tú,  
-ES **iOS + bloques ```**.
-
----
-
-## ✅ SOLUCIÓN DEFINITIVA (FUNCIONA 100 %)
-
-👉 Te voy a pasar **EL README COMPLETO**  
-👉 **SIN NINGÚN ```bash NI ```txt**  
-👉 Todo es texto normal  
-👉 **iOS lo copia ENTERO**
-
-### 🔴 ESTE ES EL QUE DEBES USAR EN iPhone
-
----
-
-### 👉 COPIA TODO DE UNA SOLA VEZ DESDE AQUÍ
-
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,50:00FFFF,100:FF00FF&height=220&section=header&text=ZKEVZI&fontSize=60&fontColor=ffffff&animation=fadeIn" />
