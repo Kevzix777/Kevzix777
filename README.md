@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,50:00FFFF,100:FF00FF&height=220&section=header&text=ZKEVZI&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=CYBERSECURITY+%7C+PENTESTING+%7C+LINUX;WEB+HACKING+%7C+SOC+ANALYST;OSINT+%7C+CTF;CYBERPUNK+MINDSET+ACTIVATED" />
 
