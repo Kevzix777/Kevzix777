@@ -56,15 +56,17 @@ Analista de Ciberseguridad (CyberSOC)
 <h1 align="left">🧪 PRÁCTICA Y LABORATORIOS</h1>
 
 ### 🔴 Seguridad Web
-- XSS
-- SQL Injection
-- CSRF
+- Cross-Site Scripting (XSS)
+- SQL Injection (SQLi)
+- Cross-Site Request Forgery (CSRF)
+- Broken Authentication
+- File Inclusion (LFI / RFI)
 - Clickjacking
-- OWASP Top 10
+- Insecure Direct Object References (IDOR)
+- Command Injection
+- XML External Entities (XXE)
+- Insecure File Upload
 
-### 🧠 Análisis y OSINT
-- OSINT (investigación y recolección)
-- Análisis básico de amenazas
 
 ### 🧑‍💻 Plataformas de práctica
 - Hack The Box
