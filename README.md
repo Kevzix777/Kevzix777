@@ -16,14 +16,14 @@
 
 ---
 
-<h1 align="left">🚀 Sobre mí</h1>
+<h1 align="left">🚀 SOBRE MI</h1>
 Soy analista de CyberSOC con experiencia en monitoreo, análisis y respuesta a incidentes de seguridad.
 Me interesa tanto la seguridad defensiva como la ofensiva, aplicando mentalidad de atacante para
 mejorar la detección de amenazas y la postura de seguridad de las organizaciones.  
 
 ---
 
-<h1 align="left">🧬 Perfil</h1>
+<h1 align="left">🧬 PERFIL</h1>
 
 🛡️ **Rol**  
 Analista de Ciberseguridad (CyberSOC)
@@ -39,7 +39,7 @@ Analista de Ciberseguridad (CyberSOC)
   
 
 ---
-<h1 align="left">🛠️ Habilidades</h1>
+<h1 align="left">🛠️ HABILIDADES</h1>
 
 <div align="center">
 
@@ -53,11 +53,23 @@ Analista de Ciberseguridad (CyberSOC)
 </div>
 
 ---
+<h1 align="left">🧪 PRÁCTICA Y LABORATORIOS</h1>
 
-## 🧪 PRACTICE
+### 🔴 Seguridad Web
+- XSS
+- SQL Injection
+- CSRF
+- Clickjacking
+- OWASP Top 10
 
-XSS | SQLi | CSRF | Clickjacking  
-OSINT | DVWA | Hack The Box  
+### 🧠 Análisis y OSINT
+- OSINT (investigación y recolección)
+- Análisis básico de amenazas
+
+### 🧑‍💻 Plataformas de práctica
+- Hack The Box
+- TryHackMe
+- DVWA
 
 ---
 
