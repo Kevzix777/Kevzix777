@@ -34,8 +34,7 @@ Analista de Ciberseguridad (CyberSOC)
 🛰️ OSINT y Análisis de Amenazas  
 
 💻 **Sistemas Operativos**  
-🐧Linux (Kali / Parrot)
-
+🐧Linux (Kali / Parrot) <br>
 🪟 Windows
 
 ⌨️ **Entorno de Terminal**  
