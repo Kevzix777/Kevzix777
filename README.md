@@ -35,6 +35,7 @@ Analista de Ciberseguridad (CyberSOC)
 
 💻 **Sistemas Operativos**  
 🐧Linux (Kali / Parrot)
+
 🪟 Windows
 
 ⌨️ **Entorno de Terminal**  
