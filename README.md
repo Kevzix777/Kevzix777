@@ -23,7 +23,7 @@ mejorar la detección de amenazas y la postura de seguridad de las organizacione
 
 ---
 
-## 🧬 PERFIK
+<h1 align="left">🧬 Perfil</h1>
 
 🛡️ **Rol**  
 Analista de Ciberseguridad (CyberSOC)
