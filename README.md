@@ -23,12 +23,20 @@ mejorar la detección de amenazas y la postura de seguridad de las organizacione
 
 ---
 
-## 🧬 PROFILE
+## 🧬 PERFIK
 
-ROLE   : Cybersecurity  
-FOCUS  : Web Pentesting | SOC | OSINT  
-OS     : Kali Linux | Termux  
-STYLE  : Cyberpunk Hacker  
+🛡️ **Rol**  
+Analista de Ciberseguridad (CyberSOC)
+
+🎯 **Enfoque**  
+🔴 Pentesting Web (OWASP Top 10)  
+🔵 Detección, Monitoreo y Respuesta a Incidentes  
+🛰️ OSINT y Análisis de Amenazas  
+
+💻 **Sistemas Operativos**  
+🐉 Kali Linux  
+📱 Termux
+  
 
 ---
 
