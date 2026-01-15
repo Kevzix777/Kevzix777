@@ -39,15 +39,16 @@ Analista de Ciberseguridad (CyberSOC)
   
 
 ---
-
-## 🛠️ SKILLS
+<h1 align="left">🛠️ Habilidades</h1>
 
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-Terminal-00ff00?style=for-the-badge&logo=gnu-bash)
-![Cyber](https://img.shields.io/badge/Cyber-Security-8B00FF?style=for-the-badge)
-![Web](https://img.shields.io/badge/Web-Pentesting-00FFFF?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python)
+![Networking](https://img.shields.io/badge/Networking-TCP/IP-blue?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-Log%20Analysis-orange?style=for-the-badge)
+![WebSec](https://img.shields.io/badge/Web-Seguridad-red?style=for-the-badge)
 
 </div>
 
