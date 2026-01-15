@@ -12,12 +12,10 @@
 
 ---
 
-<h1 align="left">🚀 About Me</h1>
-whoami  
-zkevzi  
-
-uname -a  
-Kali Linux x86_64  
+<h1 align="left">🚀 Sobre mí</h1>
+Soy analista de CyberSOC con experiencia en monitoreo, análisis y respuesta a incidentes de seguridad.
+Me interesa tanto la seguridad defensiva como la ofensiva, aplicando mentalidad de atacante para
+mejorar la detección de amenazas y la postura de seguridad de las organizaciones.  
 
 ---
 
