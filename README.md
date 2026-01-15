@@ -1,7 +1,9 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm Kevzi <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%"></h1> 
 
-<h2 align="center">  Filosofía "Pensar como atacante para defender como profesional</h2> 
+<h2 align="center">
+  <i>Filosofía "Pensar como atacante para defender como profesional"</i>
+</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
