@@ -34,8 +34,9 @@ Analista de Ciberseguridad (CyberSOC)
 🛰️ OSINT y Análisis de Amenazas  
 
 💻 **Sistemas Operativos**  
-🐉 Kali Linux  
-📱 Termux
+🐧Linux 
+🪟 Windows
+>_  Termux
   
 
 ---
@@ -75,17 +76,7 @@ Analista de Ciberseguridad (CyberSOC)
 
 ---
 
-## 📊 STATS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zkevzi&show_icons=true&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
 
 ### ⚡ ACCESS GRANTED  
 CYBERPUNK MODE ENABLED  
