@@ -44,16 +44,17 @@ Analista de Ciberseguridad (CyberSOC)
 ---
 <h1 align="left">🛠️ HABILIDADES</h1>
 
+
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python)
-![Networking](https://img.shields.io/badge/Networking-TCP/IP-blue?style=for-the-badge)
-![SIEM](https://img.shields.io/badge/SIEM-Log%20Analysis-orange?style=for-the-badge)
-![WebSec](https://img.shields.io/badge/Web-Seguridad-red?style=for-the-badge)
+![BlueTeam](https://img.shields.io/badge/Blue%20Team-SOC%20%7C%20SIEM%20%7C%20IR-1f6feb?style=for-the-badge)
+![RedTeam](https://img.shields.io/badge/Red%20Team-Web%20Pentesting%20(OWASP)-b91d47?style=for-the-badge)
+![ThreatIntel](https://img.shields.io/badge/Threat%20Intelligence-OSINT%20%7C%20IOCs%20%7C%20TTPs-6f42c1?style=for-the-badge)
+![Systems](https://img.shields.io/badge/Sistemas-Linux%20%7C%20Windows-2f2f2f?style=for-the-badge)
+![Scripting](https://img.shields.io/badge/Scripting-Python%20%7C%20Bash-4eaa25?style=for-the-badge)
 
 </div>
+
 
 ---
 <h1 align="left">🧪 PRÁCTICA Y LABORATORIOS</h1>
