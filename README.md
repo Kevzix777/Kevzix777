@@ -34,9 +34,11 @@ Analista de Ciberseguridad (CyberSOC)
 🛰️ OSINT y Análisis de Amenazas  
 
 💻 **Sistemas Operativos**  
-🐧Linux 
+🐧Linux (Kali / Parrot)
 🪟 Windows
->_  Termux
+
+⌨️ **Entorno de Terminal**  
+📱 Termux (Android)
   
 
 ---
